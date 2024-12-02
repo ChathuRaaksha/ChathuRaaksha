@@ -1,5 +1,10 @@
 ## Hi there 👋🚀
-
+![Repo Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=brightgreen)  
+![Forks](https://img.shields.io/github/forks/YourGitHubUsername/YourRepoName?style=flat-square)  
+![Stars](https://img.shields.io/github/stars/YourGitHubUsername/YourRepoName?style=flat-square)  
+![Repo Size](https://img.shields.io/github/repo-size/YourGitHubUsername/YourRepoName?style=flat-square)  
+![License](https://img.shields.io/github/license/YourGitHubUsername/YourRepoName?style=flat-square)  
+![Developers](https://img.shields.io/badge/Contributors-1-orange?style=flat-square)  
 <!--
 **ChathuRaaksha/ChathuRaaksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

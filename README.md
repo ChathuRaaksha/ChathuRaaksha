@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CF7F7&width=435&lines=Hello%2C+I'M+Supun;Full+Stack+Developer+%F0%9F%92%BB;Cross+Platform+Dev+%F0%9F%94%B4;React+%2F+React+Native+Dev+%F0%9F%8C%90;Don't+Forget+to+follow+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&width=435&lines=Hello%2C+I'M+Supun;Full+Stack+Developer+%F0%9F%92%BB;Cross+Platform+Dev+%F0%9F%94%B4;React+%2F+React+Native+Dev+%F0%9F%8C%90;Don't+Forget+to+follow+me)](https://git.io/typing-svg)
 
 
 
